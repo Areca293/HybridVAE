@@ -2,7 +2,7 @@
 
 This project is a Jupyter notebook for intrusion detection using machine learning with PyTorch.
 
-Repository: [GitHub - BlackCrowxyz/hybrid-vae](https://github.com/BlackCrowxyz/hybrid-vae)
+Repository: [GitHub - Areca293/HybridVAE](https://github.com/Areca293/HybridVAE)
 
 ## Prerequisites
 
